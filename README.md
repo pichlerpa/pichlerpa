@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**pichlerpa/pichlerpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Patrick, a passionate engineer and researcher trying to make the world a better place through sustainable data, analytics, and AI solutions.
 
-Here are some ideas to get you started:
+- 🔭 Microsoft, Azure, Databricks, Power BI, and OSS (esp. NiFi, Kafka, Spark, Trino, Druid)
+- 💻 SQL, Python, Node.js, React.js, and TypeScript
+- 🧱 Infrastructure: Azure, Terraform, Docker
+- 🎓 MSc in Information Technology, BA in Business Informatics
+- 📑 Certified in SQL Server BI/DWH, Power BI, Spark and Hadoop
+- 🎬 Authoring online courses on Pluralsight
+- ✏️ Writing technical articles on Medium
+- 🤝 Contributing to various open-source projects
+- 🗣️ Fluent in German, English and Spanish
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For anyone wanting to connect, feel free to do so.

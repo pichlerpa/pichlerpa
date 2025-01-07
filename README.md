@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Patrick, a passionate engineer and researcher trying to make the world a better place through sustainable data, analytics, and AI solutions.
+I'm Patrick, a passionate engineer and researcher focused on sustainable data, analytics, and AI solutions.
 
 - 🔭 Microsoft, Azure, Terraform, Docker, Databricks, Power BI, and OSS (esp. NiFi, Kafka, Spark, Trino, Druid)
 - 💻 SQL, Python, JavaScript/TypeScript, and currently learning Rust

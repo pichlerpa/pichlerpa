@@ -3,7 +3,7 @@
 I'm Patrick, a passionate engineer and researcher focused on sustainable data, analytics, and AI solutions.
 
 - 🔭 Microsoft, Azure, Databricks, Power BI, Terraform, Docker, and OSS (esp. NiFi, Kafka, Spark, Trino, Druid)
-- 💻 SQL, Python, JavaScript/TypeScript, and currently learning Rust
+- 💻 SQL, Python, TypeScript, Rust
 - 🎓 MSc in Information Technology, BA in Business Informatics
 - 📑 Certified in SQL Server BI/DWH, Power BI, Spark and Hadoop
 - 🎬 Authoring online courses on Pluralsight
